@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/saimmehmood">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ML+Platform+Engineer+%40+Apple+(contract);Building+AI+agents+that+actually+ship;Voice+agents+%E2%80%A2+LLM+tooling+%E2%80%A2+ML+pipelines;MSc+Computer+Science+%40+York+University;Based+in+Toronto%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6;Open+to+new+opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=ML+Platform+Engineer+%40+Apple+(contract);Building+AI+agents+that+actually+ship;Voice+agents+%E2%80%A2+LLM+tooling+%E2%80%A2+ML+pipelines;MSc+Computer+Science+%40+York+University;Based+in+Toronto%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6;Open+to+new+opportunities!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/saimmehmoodgul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://saimmehmood.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/></a>
   <a href="mailto:saim.mehmood.gul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=saimmehmood&style=for-the-badge&color=2c5364&label=Profile+views" alt="Profile views"/>
+  <img src="https://hits.sh/github.com/saimmehmood.svg?style=for-the-badge&label=Profile%20views&color=2c5364" alt="Profile views"/>
 </p>
 
 ---
@@ -133,10 +133,6 @@ I work on internal AI/ML data infrastructure (contract, June 2026 to now). The c
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saimmehmood&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimmehmood&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 <!-- Contribution snake (generated daily by .github/workflows/snake.yml) -->
