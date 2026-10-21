@@ -74,11 +74,17 @@ I work on internal AI/ML data infrastructure (contract, June 2026 to now). The c
   <a href="https://github.com/saimmehmood/pharmacy-appointment-agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimmehmood&repo=pharmacy-appointment-agent&theme=tokyonight&hide_border=true" alt="pharmacy-appointment-agent" />
   </a>
-  <a href="https://github.com/saimmehmood/ai_resume_tailor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimmehmood&repo=ai_resume_tailor&theme=tokyonight&hide_border=true" alt="ai_resume_tailor" />
-  </a>
   <a href="https://github.com/saimmehmood/semantic_relationships">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimmehmood&repo=semantic_relationships&theme=tokyonight&hide_border=true" alt="semantic_relationships" />
+  </a>
+  <a href="https://github.com/saimmehmood/covid_19_risk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimmehmood&repo=covid_19_risk&theme=tokyonight&hide_border=true" alt="covid_19_risk" />
+  </a>
+  <a href="https://github.com/saimmehmood/Towards-Moving-Scientific-Applications-in-the-Cloud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimmehmood&repo=Towards-Moving-Scientific-Applications-in-the-Cloud&theme=tokyonight&hide_border=true" alt="Towards-Moving-Scientific-Applications-in-the-Cloud" />
+  </a>
+  <a href="https://github.com/saimmehmood/ExpertDeveloperRecommendation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimmehmood&repo=ExpertDeveloperRecommendation&theme=tokyonight&hide_border=true" alt="ExpertDeveloperRecommendation" />
   </a>
   <a href="https://github.com/saimmehmood/ghusul_app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimmehmood&repo=ghusul_app&theme=tokyonight&hide_border=true" alt="ghusul_app" />
@@ -108,6 +114,7 @@ I work on internal AI/ML data infrastructure (contract, June 2026 to now). The c
 | [POI_Clustering](https://github.com/saimmehmood/POI_Clustering) | Clusters points of interest to characterize regions |
 | [covid_19_risk](https://github.com/saimmehmood/covid_19_risk) | Uses trajectories to estimate the COVID-19 infection risk of geographic areas |
 | [location-based-services](https://github.com/saimmehmood/location-based-services) | Location-based services experiments |
+| [Towards-Moving-Scientific-Applications-in-the-Cloud](https://github.com/saimmehmood/Towards-Moving-Scientific-Applications-in-the-Cloud) | Framework for running highly parallel scientific applications in the cloud with Apache Spark, SparkR and Jupyter (SNIC) |
 | [ExpertDeveloperRecommendation](https://github.com/saimmehmood/ExpertDeveloperRecommendation) | Search engine for finding expert developers by skill |
 
 </details>
