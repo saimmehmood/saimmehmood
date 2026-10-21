@@ -28,7 +28,7 @@ class SaimMehmood:
     location   = "Toronto, Canada 🇨🇦"
     education  = "MSc Computer Science, York University"
     focus      = ["ML platform engineering", "LLM agents", "Infrastructure correctness", "Spatial data mining"]
-    building   = ["Voice agents for appointment booking", "AI resume tailoring", "Community scheduling apps"]
+    building   = ["Voice agents for appointment booking", "Community scheduling apps"]
     research   = ["Trajectory analysis", "POI clustering", "Semantic relationships between regions"]
     motto      = "When a system says 'fine', go check whether it means it."
     open_to    = "Full-time roles & interesting collaborations"
@@ -98,7 +98,6 @@ I work on internal AI/ML data infrastructure (contract, June 2026 to now). The c
 | Project | What it does |
 |---|---|
 | [pharmacy-appointment-agent](https://github.com/saimmehmood/pharmacy-appointment-agent) | Voice-ready conversational agent on Retell AI that books pharmacy appointments |
-| [ai_resume_tailor](https://github.com/saimmehmood/ai_resume_tailor) | Uses LLMs to tailor a resume to a specific job description |
 | [ai_engineer_assessment](https://github.com/saimmehmood/ai_engineer_assessment) | AI engineering take-home work |
 | [nlp_squad](https://github.com/saimmehmood/nlp_squad) | Fixed-up BERT question-answering tutorial on SQuAD |
 
