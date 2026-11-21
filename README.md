@@ -152,7 +152,7 @@ I work on internal AI/ML data infrastructure (contract, June 2026 to now). The c
 
 ## 🤝 Let's connect
 
-I'm **open to work**. If you're hiring for ML platform, infrastructure, or AI engineering, or want to collaborate on agents or spatial data, reach out on [LinkedIn](https://www.linkedin.com/in/saimmehmoodgul/) or [email](mailto:saim.mehmood.gul@gmail.com).
+I'm **open to work**. If you're hiring for ML Engineering, platform, infrastructure, Data Science/Engineering or Research/AI engineering, or want to collaborate on agents or spatial data, reach out on [LinkedIn](https://www.linkedin.com/in/saimmehmoodgul/) or [email](mailto:saim.mehmood.gul@gmail.com).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
